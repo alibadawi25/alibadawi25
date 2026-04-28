@@ -1,8 +1,5 @@
 <div align="center">
-
-<!-- HERO SVG BANNER -->
 <img src="./banner.svg" width="100%"/>
-
 </div>
 
 ```
@@ -99,14 +96,14 @@ GDScript    ███░░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=alibadawi25&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=333333&border_radius=0&hide_title=false&rank_icon=github"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=alibadawi25&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=333333&border_radius=0&rank_icon=github"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibadawi25&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=888888&border_color=333333&border_radius=0&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=alibadawi25&theme=dark&background=000000&border=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=555555&border_radius=0)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=alibadawi25&theme=dark&background=000000&border=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=555555&border_radius=0"/>
 
 </div>
 

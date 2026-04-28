@@ -126,86 +126,18 @@ GDScript    ███░░░░░░░░░░░░░░░░░░░�
 
 ### `04` — PINNED WORK
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**[Minecraft-Clone-By-AI](https://github.com/alibadawi25/Minecraft-Clone-By-AI)**
-```
-lang   C++
-type   Game Engine / Voxel
-about  Full voxel engine built entirely with
-       AI-assisted coding. A showcase of
-       human–AI collaboration in game dev.
-```
+<a href="https://github.com/alibadawi25/Minecraft-Clone-By-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alibadawi25&repo=Minecraft-Clone-By-AI&theme=dark&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=333333&border_radius=0"/></a>
+<a href="https://github.com/warynyo/EvilDungeons"><img src="https://github-readme-stats.vercel.app/api/pin/?username=warynyo&repo=EvilDungeons&theme=dark&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=333333&border_radius=0"/></a>
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/alibadawi25/Activity-Selection-Scheduler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alibadawi25&repo=Activity-Selection-Scheduler&theme=dark&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=333333&border_radius=0"/></a>
+<a href="https://github.com/alibadawi25/Web-Marie-Assembler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alibadawi25&repo=Web-Marie-Assembler&theme=dark&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=333333&border_radius=0"/></a>
 
-**[EvilDungeons](https://github.com/warynyo/EvilDungeons)**
-```
-lang   GDScript / C++
-type   Indie Game
-about  Dark dungeon crawler built in Godot.
-       Atmospheric design with procedural
-       elements and custom mechanics.
-```
+<a href="https://github.com/alibadawi25/EZ-Programming"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alibadawi25&repo=EZ-Programming&theme=dark&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=333333&border_radius=0"/></a>
+<a href="https://github.com/alibadawi25/The-Cooq-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alibadawi25&repo=The-Cooq-Website&theme=dark&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=333333&border_radius=0"/></a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Activity-Selection-Scheduler](https://github.com/alibadawi25/Activity-Selection-Scheduler)**
-```
-lang   JavaScript
-type   Educational Tool
-about  Web platform visualizing Greedy vs
-       Dynamic Programming approaches to
-       the Activity Selection Problem.
-```
-
-</td>
-<td width="50%" valign="top">
-
-**[Web-Marie-Assembler](https://github.com/alibadawi25/Web-Marie-Assembler)**
-```
-lang   JavaScript / React
-type   Systems Tool
-about  A basic MARIE assembler and executor
-       running entirely in the browser.
-       Built with React.
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[EZ-Programming](https://github.com/alibadawi25/EZ-Programming)**
-```
-lang   JavaScript
-type   Visual Tool
-about  Visual Programming Project — making
-       code concepts interactive and
-       accessible for learners.
-```
-
-</td>
-<td width="50%" valign="top">
-
-**[The-Cooq-Website](https://github.com/alibadawi25/The-Cooq-Website)**
-```
-lang   JavaScript
-type   Full-Stack Web
-about  Full-stack platform for the food
-       space. Clean UI, real-world
-       production project.
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 

@@ -1,0 +1,7 @@
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="180" fill="#000000"/>
+  <line x1="0" y1="1" x2="900" y2="1" stroke="#333333" stroke-width="1"/>
+  <line x1="0" y1="179" x2="900" y2="179" stroke="#333333" stroke-width="1"/>
+  <text x="450" y="95" font-family="'Courier New', monospace" font-size="72" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" letter-spacing="-2">Ali Badawi</text>
+  <text x="450" y="148" font-family="'Courier New', monospace" font-size="14" font-weight="400" fill="#888888" text-anchor="middle" letter-spacing="4">CS STUDENT · FULL-STACK DEV · GAME DEV</text>
+</svg>

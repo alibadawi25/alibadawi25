@@ -19,56 +19,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 🎮 Game Development
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Code For Life**](https://github.com/alibadawi25/programming_educational_game) | An educational game that teaches programming concepts through interactive gameplay — puzzles, challenges, and a story-driven approach to learning code | Godot, GDScript |
-| [**Football 2D Game**](https://github.com/alibadawi25/Football-2D-Game) | A polished 2D football game built as a standalone module to be embedded into a larger game project | Godot, GDScript |
-| [**Minecraft Clone**](https://github.com/alibadawi25/Minecraft-Clone-By-Ai) | A fully functional voxel engine and Minecraft-style game built from scratch in C++, demonstrating real-time 3D rendering, chunk management, and procedural generation | C++, OpenGL |
-| [**Sudoku + AI Solver**](https://github.com/alibadawi25/Sudoku-Game-with-Ai) | A playable Sudoku game with a built-in AI solver — generates valid puzzles and solves them in real time using backtracking | Python, Pygame |
-
----
-
-### 🤖 AI & Algorithms
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Chess Engine + Bot**](https://github.com/alibadawi25/Ai-Chess-Engine) | A full chess engine with move generation, evaluation, and an AI opponent — paired with a [web frontend](https://github.com/alibadawi25/Chess-bot-frontend) for browser-based play | C++, Python, JavaScript |
-| [**Procast**](https://github.com/alibadawi25/Procast) | AI-driven demand forecasting platform for FMCG companies — delivers accurate forecasts with scenario planning, automated reporting, and smart analytics dashboards | TypeScript, Python |
-| [**Arabic Programming Language**](https://github.com/alibadawi25/Arabi-Programming-Language-with-Ai) | A custom programming language and code editor with full Arabic syntax support — built to push the boundaries of AI-assisted language design | Python |
-| [**Minesweeper AI**](https://github.com/alibadawi25/Mine-Sweeper-Ai) | A Minesweeper agent that plays the game intelligently using constraint satisfaction and probabilistic reasoning | Python |
-| [**Activity Selection Scheduler**](https://github.com/alibadawi25/Activity-Selection-Scheduler) | Interactive visualizer comparing Greedy vs Dynamic Programming approaches to the Activity Selection Problem — useful for learning and teaching algorithms | JavaScript |
-
----
-
-### 🌐 Web Applications
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Hadith Every Day**](https://github.com/alibadawi25/Hadith-Every-Day) | A daily hadith web app displaying Islamic narrations in both Arabic and English, with bookmarking, dark mode, and a clean reading experience | JavaScript |
-| [**Mosque Map**](https://github.com/alibadawi25/Mosque-Map) | An interactive map that helps users locate nearby mosques, with real-time filtering and location-based search | JavaScript |
-| [**Quran Garden**](https://github.com/alibadawi25/Quran-Garden) | A Quran browsing and reading app with verse navigation and a calming UI | JavaScript |
-| [**Iverra.co**](https://github.com/alibadawi25/Iverra.co) | A full-featured e-commerce web app for a local brand — product listings, cart, and checkout flow | JavaScript |
-| [**Planify**](https://github.com/alibadawi25/Planify) | A task and time management web app for organizing your day with priorities and deadlines | JavaScript |
-| [**Undercover**](https://github.com/alibadawi25/undercover) | A digital game master for party games like Spy and Mafia — handles roles, turns, and game state so players can focus on the fun | JavaScript |
-| [**Film Zone**](https://github.com/alibadawi25/Film-Zone) | A movie discovery and browsing platform with search, filtering, and curated recommendations | TypeScript |
-
----
-
-### 🛠️ CS Tools & Utilities
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**MARIE Assembler**](https://github.com/alibadawi25/MarieAssembler) | A command-line MARIE assembler and executor — assembles MARIE assembly code and simulates execution step by step | Python |
-| [**Web MARIE Assembler**](https://github.com/alibadawi25/Web-Marie-Assembler) | The full MARIE assembler experience in the browser — write, assemble, and execute MARIE programs with a visual register and memory display | React |
-| [**Huffman Compression Tool**](https://github.com/alibadawi25/Huffman-Coding-Compression-Tool) | A text compression and decompression tool implementing Huffman Coding — includes encoding trees, bitstream output, and compression ratio stats | Python |
-| [**Carrefour Scraper**](https://github.com/alibadawi25/carrefour-scraper) | An intelligent bilingual product scraper for Carrefour Egypt with Arabic/English support, nutrition data enrichment, and 99% extraction accuracy | Python |
-
----
-
 ## 🌐 Socials
 
 <div align="center">

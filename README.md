@@ -2,6 +2,15 @@
 <img src="./banner.svg" width="100%"/>
 </div>
 
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://alibadawi.pages.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alibadawi25)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ali_badawi25)
+[![Email](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:alibadawi25@gmail.com)
+
+</div>
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  alibadawi25  //  he/him  //  Egypt                             │
@@ -104,6 +113,12 @@ GDScript    ███░░░░░░░░░░░░░░░░░░░�
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=alibadawi25&theme=dark&background=000000&border=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=555555&border_radius=0"/>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alibadawi25&bg_color=000000&color=444444&line=222222&point=ffffff&area=true&hide_border=false&border_color=222222&title_color=444444&custom_title=CONTRIBUTION+ACTIVITY"/>
 
 </div>
 
@@ -215,7 +230,10 @@ about  Full-stack platform for the food
                                     — Jef Raskin
 ```
 
-**[Portfolio](https://alibadawi.pages.dev/)** · **[LinkedIn](https://linkedin.com/in/alibadawi25)** · **[Instagram](https://instagram.com/ali_badawi25)** · **alibadawi25@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://alibadawi.pages.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alibadawi25)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ali_badawi25)
+[![Email](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:alibadawi25@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alibadawi25&color=000000&style=flat-square&label=PROFILE+VIEWS)
 
